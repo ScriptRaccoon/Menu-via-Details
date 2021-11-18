@@ -29,7 +29,7 @@ details {
     z-index: 10;
 }
 summary {
-    display: block;
+    list-style: none;
     width: 20px;
     height: 20px;
     cursor: pointer;
